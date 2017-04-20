@@ -16,7 +16,7 @@
 
 #### Notes
 
-* I've received so much support from the Turing community, and want to mentor more in the next module so that other students can feel the same.
+* I've recieved so much support from the Turing community, and want to mentor more in the next module so that other students can feel the same.
 
 ------------------------------------------------
 
